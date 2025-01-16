@@ -1,14 +1,14 @@
 
 
 <!-- Banner image -->
-![Coding]([https://Coding-gif-url](https://github.com/vaishnavi-0311/vaishnavi-0311/blob/main/Coding.gif))
+![Coding](https://github.com/vaishnavi-0311/vaishnavi-0311/blob/main/Coding.gif)
 
 # Hi 👋, I'm Vaishnavi
 
 ### A Front-End Developer
 
 <!-- Additional GIF or image -->
-![work]([https://work-gif-url](https://github.com/vaishnavi-0311/vaishnavi-0311/blob/main/work.gif))
+![Work](https://github.com/vaishnavi-0311/vaishnavi-0311/blob/main/work.gif)
 
 <!-- About section -->
 # 💫 About Me:
