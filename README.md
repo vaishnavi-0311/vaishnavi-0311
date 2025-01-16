@@ -1,14 +1,14 @@
 
 
 <!-- Banner image -->
-![Banner](https://your-banner-image-url)
+![Banner](https://Coding-gif-url)
 
 # Hi 👋, I'm Vaishnavi
 
 ### A Front-End Developer
 
 <!-- Additional GIF or image -->
-![Workspace](https://your-workspace-gif-url)
+![Workspace](https://your-workspac-gif-url)
 
 <!-- About section -->
 ## About Me
