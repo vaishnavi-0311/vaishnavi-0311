@@ -13,9 +13,13 @@
  </div>
  
 <!-- Additional GIF or image -->
-![Code](https://github.com/vaishnavi-0311/vaishnavi-0311/blob/main/Code.gif)
+ 
+<div align="center">
+    ![Code](https://github.com/vaishnavi-0311/vaishnavi-0311/blob/main/Code.gif)
+</div>
 
 <!-- About section -->
+
 # 💫 About Me:
 - 🔭 : I’m currently working on Web development<br><br>
 - 🤝: I’m looking for help with Chatgpt .<br><br>
@@ -46,5 +50,3 @@
 [![](https://visitcount.itsvg.in/api?id=vaishnavi-0311&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-
