@@ -15,7 +15,9 @@
 <!-- Additional GIF or image -->
  
 <div align="center">
-    ![Code](https://github.com/vaishnavi-0311/vaishnavi-0311/blob/main/Code.gif)
+  
+![Code](https://github.com/vaishnavi-0311/vaishnavi-0311/blob/main/Code.gif)
+  
 </div>
 
 <!-- About section -->
@@ -25,8 +27,10 @@
 - 🤝: I’m looking for help with Chatgpt .<br><br>
 - 🌱: I’m currently learning MERN Stack .<br><br>
 - 💬: Ask me about Web Development,Javascript .<br><br>
-* 📬: How to reach me <ins> vaishnu03712gmail.com .<ins> <br>
+* 📬: How to reach me [Email me](mailto:vaishnu0371@gmail.com)
+ <br>
 
+</div>
 
 ## 🌐 Connect ME :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vaishnu._____)<br><br>
@@ -49,4 +53,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vaishnavi-0311&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
+
