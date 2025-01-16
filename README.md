@@ -1,3 +1,27 @@
+
+
+<!-- Banner image -->
+![Banner](https://your-banner-image-url)
+
+# Hi 👋, I'm Vaishnavi
+
+### A Front-End Developer
+
+<!-- Additional GIF or image -->
+![Workspace](https://your-workspace-gif-url)
+
+<!-- About section -->
+## About Me
+I am a passionate developer who loves creating user-friendly websites and learning new technologies.
+
+<!-- Skills section -->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+
+
 Hello👋, I'm Vaishnavi
 
 
