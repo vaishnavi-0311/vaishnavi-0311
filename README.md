@@ -20,7 +20,7 @@
   
   </div>
 
-    <!-- About section -->
+ <!-- About section -->
 
    # 💫 About Me:
   - 🔭 : I’m currently working on Web development<br><br>
