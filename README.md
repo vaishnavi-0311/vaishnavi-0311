@@ -8,7 +8,7 @@
 ### A Front-End Developer
 
 <!-- Additional GIF or image -->
-![Work](https://github.com/vaishnavi-0311/vaishnavi-0311/blob/main/work.gif)
+![Code](https://github.com/vaishnavi-0311/vaishnavi-0311/blob/main/Code.gif)
 
 <!-- About section -->
 # 💫 About Me:
