@@ -28,7 +28,7 @@
   - 🌱: I’m currently learning **MERN Stack**.<br><br>
   - 💬: Ask me about  **Web Development, Javascript**.<br><br>
   - 📬: How to reach me [vaishnu0371@gmail.com](mailto:vaishnu0371@gmail.com)<br><br>
-  - 👩🏼‍💻 : My Portfolio [Personal Portfolio](http://127.0.0.1:5500/index.html)
+  - 👩🏼‍💻 : My Portfolio [Personal Portfolio](https://myportfolio-chi-lime.vercel.app/)
    <br>
 
 </div>
